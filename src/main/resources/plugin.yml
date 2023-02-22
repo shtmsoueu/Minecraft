@@ -1,0 +1,4 @@
+name: UPMarket
+main: net.mineup.mercado.UPMarket
+version: 0.0.1
+description: Plugin de Mercado

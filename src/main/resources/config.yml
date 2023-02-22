@@ -1,0 +1,14 @@
+MySQL:
+  Use: false
+  Host: 'localhost'
+  User: 'root'
+  Password: ''
+  Database: 'database'
+
+Timers:
+  Tempo_Loja: 12
+  Tempo_Expirado: 48
+
+Config:
+  Delay_Broadcast: 30
+  Preco_Max: 999999
